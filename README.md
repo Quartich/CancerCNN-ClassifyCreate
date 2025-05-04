@@ -1,9 +1,11 @@
 Windows terminal:
+
 `wsl --install`
 
 navigate to the directory with py file and datasets
 install python3.10.12
 using pip install streamlit, tensorflow+cuda, numpy, matplotlib, pillow
+
 `streamlit run classifiercreate.py`
 
 open browser and connect to localhost:8501 or 127.0.0.1:8501
